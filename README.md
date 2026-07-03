@@ -319,7 +319,7 @@ def baseball_game():
 
 
 # =========================
-# START
+# Start
 # =========================
 
 while True:
